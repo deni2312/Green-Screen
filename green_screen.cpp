@@ -3,9 +3,7 @@
 #include "opencv2/imgproc.hpp"
 
 #include <stdio.h>
-#include <iostream>
 
-using namespace std;
 using namespace cv;
 
 /** Global variables */
