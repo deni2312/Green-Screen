@@ -13,4 +13,7 @@ To compile it type(on Linux):
 
 To choose the range of green or other colors you need to change the line 21(`inRange(hsv_image,Scalar(0,0,0),Scalar(0,255,0),ColTra);`)
 with: first `Scalar(R-lower,G-lower,B-lower)`,in second `Scalar(R-high,G-high,B-high)`
-In line 42 change `templateimage.jpg` with the name of the image that you use.
+
+**HOW TO CHOOSE THE BACKGROUND IMAGE**
+
+InIn line 42 change `templateimage.jpg` with the name of the image that you use.
